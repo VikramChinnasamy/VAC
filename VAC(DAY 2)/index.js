@@ -86,3 +86,5 @@ sampArr.push("nanban");
 console.log(sampArr);
 sampArr.unshift("Beast");
 console.log(sampArr);
+sampArr.pop();
+console.log(sampArr);
