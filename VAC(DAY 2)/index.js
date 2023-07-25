@@ -17,7 +17,7 @@ console.log(movie);
 movie = "SALAM";
 */
 
-let name = "Vikram Chinnasamy";
+let name = "Vikram";
 let age = "19";
 let completedcollege = false;
 let tech = ["app", "website", "backend"];
