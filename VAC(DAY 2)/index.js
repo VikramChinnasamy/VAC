@@ -84,3 +84,5 @@ sampArr[2] = "master";
 console.log(sampArr);
 sampArr.push("nanban");
 console.log(sampArr);
+sampArr.unshift("Beast");
+console.log(sampArr);
