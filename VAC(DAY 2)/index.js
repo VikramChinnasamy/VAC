@@ -88,3 +88,13 @@ sampArr.unshift("Beast");
 console.log(sampArr);
 sampArr.pop();
 console.log(sampArr);
+
+let myArray = [10, 20, 30, 40, 50];
+
+// Accessing value at index 2 (which is 30)
+const valueAtIndex2 = myArray[2];
+console.log(valueAtIndex2); // Output: 30
+
+// Modifying value at index 2
+myArray[2] = 35;
+console.log(myArray);
