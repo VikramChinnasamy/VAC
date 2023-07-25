@@ -98,3 +98,5 @@ console.log(valueAtIndex2); // Output: 30
 // Modifying value at index 2
 myArray[2] = 35;
 console.log(myArray);
+
+sampArr.splice(3, 1);
